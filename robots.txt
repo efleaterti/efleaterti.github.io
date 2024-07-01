@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://efleaterti.github.io/sitemap
+Sitemap: https://efleaterti.github.io/app/sitemap
+Sitemap: https://efleaterti.github.io/assets/sitemap
+Sitemap: https://efleaterti.github.io/css/sitemap
+Sitemap: https://efleaterti.github.io/includes/sitemap
+Sitemap: https://efleaterti.github.io/item/sitemap
+Sitemap: https://efleaterti.github.io/src/sitemap
